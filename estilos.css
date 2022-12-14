@@ -114,6 +114,8 @@ aside {
 
 #recomendados {
     padding: 0px 0px 80px 0px;
+    text-decoration: none;
+    color: black;
 }
 
 #recomendados h1 {
